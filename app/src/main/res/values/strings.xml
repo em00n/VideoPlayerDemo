@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video Player Demo</string>
+    <string name="select_video">Select Video</string>
+    <string name="record_voiceover">Record Voiceover</string>
+    <string name="play_video_with_voiceover">Play Video with Voiceover</string>
+    <string name="start_time_in_minute">Start Time (in minute)</string>
+    <string name="end_time_in_minute">End Time (in minute)</string>
+    <string name="please_enter_start_and_end_time">Please enter start and end time</string>
+</resources>
